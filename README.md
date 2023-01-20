@@ -17,7 +17,7 @@ SCREENSHOTS:
 
 ![Screenshot_20230120_131522](https://user-images.githubusercontent.com/104321972/213643666-a02fb4f8-6347-4c40-a90f-e9b4c17df2e3.png)
 
-![image](https://user-images.githubusercontent.com/104321972/213643293-b674232d-e811-4552-bbb6-4e23ba9deb83.png)
+
 
 
 LIVE DEMO : https://trenders.herokuapp.com/
